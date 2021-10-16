@@ -1,1 +1,1 @@
-# class25a
+# project-C25-template
